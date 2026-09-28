@@ -586,3 +586,17 @@ footer {
     bottom: 15px;
   }
 }
+
+.site-footer {
+    margin-top: 80px;
+    padding: 24px 0;
+    text-align: center;
+    border-top: 1px solid var(--line);
+    color: var(--muted);
+    font-size: 0.9rem;
+}
+
+.site-footer strong {
+    color: var(--text);
+    font-weight: 600;
+}
